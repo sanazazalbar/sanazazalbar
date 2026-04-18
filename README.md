@@ -23,9 +23,7 @@ To become a skilled Data Analyst and contribute to data-driven decision-making i
 
 Fresher Data Analyst / Business Analyst roles
 
-# 🌐 Connect with Me
-
-[](https://linkedin.com/in/Sana Zazalbar)
+## 🌐 Socials: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Sana Zazalbar ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zazalbar@gmail.com)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=sanazazalbar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=sanazazalbar&theme=dark&hide_border=false)<br/>
