@@ -1,8 +1,8 @@
-💫 About Me
+# 💫 About Me
 
 Data Analyst in progress with a strong focus on transforming raw data into actionable insights. Passionate about building dashboards, uncovering trends, and solving real-world business problems using data-driven approaches.
 
-🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 Languages & Tools:
 Python | SQL | Excel
@@ -10,20 +10,20 @@ Python | SQL | Excel
 Data Analysis & Visualization:
 Pandas | NumPy | Power BI | Tableau
 
-🚀 What I'm Currently Doing
+# 🚀 What I'm Currently Doing
 Working on real-world data analysis projects
 Building interactive dashboards and visual reports
 Performing data cleaning, transformation, and exploratory analysis
 Practicing problem-solving using structured datasets
-🎯 Goal
+# 🎯 Goal
 
 To become a skilled Data Analyst and contribute to data-driven decision-making in impactful products.
 
-🤝 Open to Opportunities
+# 🤝 Open to Opportunities
 
 Fresher Data Analyst / Business Analyst roles
 
-🌐 Connect with Me
+# 🌐 Connect with Me
 
 [](https://linkedin.com/in/Sana Zazalbar)
 # 📊 GitHub Stats:
